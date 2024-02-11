@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "include": ["*.ts", "serverCreation/day1/test.ts"],
+  "exclude": ["node_modules"]
+}
